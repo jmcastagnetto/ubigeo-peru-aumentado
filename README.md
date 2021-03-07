@@ -21,9 +21,9 @@ Estos son los datos de equivalencias entre códigos de UBIGEO de RENIEC e INEI, 
 | `iso_3166_2` | Código ISO-3166-2 para la Región |
 | `fips` | Código FIPS para la Región |
 | `superficie` | Superficie en Km<sup>2</sup> del Distrito |
-| `altitud` | Altitude del Distrito en metros sobre el nivel del mar (msnm) |
-| `latitud` | Latitude del Distrito |
-| `longitud` | Longitude del Distrito |
+| `altitud` | Altitud del Distrito en metros sobre el nivel del mar (msnm) |
+| `latitud` | Latitud del Distrito |
+| `longitud` | Longitud del Distrito |
 
 ## Archivos de datos:
 
