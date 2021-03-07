@@ -1,6 +1,8 @@
 # Equivalencia de codigo de UBIGEO: RENIEC e INEI (Perú)
 
-Datos de equivalencias entre UBIGEOS de RENIEC e INEI, con información sobre clasificación en macro-regiones, asi como latitud, longitud y altitud del distrito.
+En Perú, existen dos codificaciones no completamente equivalentes para Departamentos, Provincias y Distritos, le codificación de INEI y la de RENIEC.
+
+Estos son los datos de equivalencias entre códigos de UBIGEO de RENIEC e INEI, con información agregada sobre clasificación en macro-regiones, asi como latitud, longitud, superficia y altitud del distrito.
 
 ## Estructura de datos:
 
@@ -18,7 +20,7 @@ Datos de equivalencias entre UBIGEOS de RENIEC e INEI, con información sobre cl
 | `macroregion_minsa` | Macroregión a la que pertene la región, según el MINSA |
 | `iso_3166_2` | Código ISO-3166-2 para la Región |
 | `fips` | Código FIPS para la Región |
-| `superficie` | Superficie en Km^2^ del Distrito |
+| `superficie` | Superficie en Km<sup>2</sup> del Distrito |
 | `altitud` | Altitude del Distrito en metros sobre el nivel del mar (msnm) |
 | `latitud` | Latitude del Distrito |
 | `longitud` | Longitude del Distrito |
