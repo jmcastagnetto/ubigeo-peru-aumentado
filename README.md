@@ -1,4 +1,4 @@
-# Equivalencia de codigo de UBIGEO: RENIEC e INEI (Perú)
+# Perú: Equivalencia de códigos de UBIGEO: RENIEC e INEI
 
 En Perú, existen dos codificaciones no completamente equivalentes para Departamentos, Provincias y Distritos, la codificación de INEI y la de RENIEC.
 
