@@ -32,3 +32,4 @@ write_file(
   json_fmt,
   file = "ubigeos_reniec_inei_aumentado.json"
 )
+
