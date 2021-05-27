@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/345434096.svg)](https://zenodo.org/badge/latestdoi/345434096)
+
 # Perú: Equivalencia de códigos de UBIGEO de RENIEC e INEI
 
 En Perú, existen dos codificaciones no completamente equivalentes para Departamentos, Provincias y Distritos, la codificación de INEI y la de RENIEC.
