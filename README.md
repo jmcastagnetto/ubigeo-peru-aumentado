@@ -41,3 +41,8 @@ Estos son los datos de equivalencias entre códigos de UBIGEO de RENIEC e INEI, 
 - MINSA (REUNIS: https://www.minsa.gob.pe/reunis/)
 - FIPS (https://www.nist.gov/itl/current-fips)
 - ISO-3166-2 (https://www.iso.org/standard/72483.html)
+
+## Nota:
+
+- Desde el 2021-08-14, estos datos también están disponibles para explorar y usar en https://ubigeos-peru.glitch.me/, usando la plataforma de publicación de datos datasette.io y corriendo en glitch.com (sean buenos y no lo carguen demasiado, pues es una cuenta gratuita :-)
+  - Un pequeño cambio, para poder usar mapas en la visualización, ha sido el renombrar "latidud" a "latitude", y "longitud" a "longitude" en ese aplicativo.
