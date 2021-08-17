@@ -24,8 +24,8 @@ Estos son los datos de equivalencias entre códigos de UBIGEO de RENIEC e INEI, 
 | `fips` | Código FIPS para la Región |
 | `superficie` | Superficie en Km<sup>2</sup> del Distrito |
 | `altitud` | Altitud del Distrito en metros sobre el nivel del mar (msnm) |
-| `latitud` | Latitud del Distrito |
-| `longitud` | Longitud del Distrito |
+| `latitude` | Latitud del Distrito |
+| `longitude` | Longitud del Distrito |
 
 ## Archivos de datos:
 

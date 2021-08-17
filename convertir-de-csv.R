@@ -6,8 +6,8 @@ ubigeos <- read_csv(
     .default = col_character(),
     superficie = col_double(),
     altitud = col_double(),
-    latitud = col_double(),
-    longitud = col_double()
+    latitude = col_double(),
+    longitude = col_double()
   )
 ) %>%
   mutate_at(
