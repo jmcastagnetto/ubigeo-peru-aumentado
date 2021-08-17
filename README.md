@@ -46,3 +46,4 @@ Estos son los datos de equivalencias entre códigos de UBIGEO de RENIEC e INEI, 
 
 - Desde el 2021-08-14, estos datos también están disponibles para explorar y usar en https://ubigeos-peru.glitch.me/, usando la plataforma de publicación de datos datasette.io y corriendo en glitch.com (sean buenos y no lo carguen demasiado, pues es una cuenta gratuita :-)
   - Un pequeño cambio, para poder usar mapas en la visualización, ha sido el renombrar "latidud" a "latitude", y "longitud" a "longitude" en ese aplicativo.
+- El 2021-08-16 se han agregado varios nuevos distritos creados o que han cambiado de nombre. Aún no tengo los datos aumentados de latitud, longitud, altitud o superficie para ese grupo.
