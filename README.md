@@ -20,7 +20,7 @@ Los arhivos están en tres formatos distintos: CSV, JSON, y RDS (formato de dato
 | `iso_3166_2`                        | Código ISO-3166-2 para la Región                      |
 | `fips`                              | Código FIPS para la Región                            |
 | `superficie`                        | Superficie en Km<sup>2</sup>                          |
-| `pob_densidad_2020`                 | Densidad Poblacional al 2020                           |
+| `pob_densidad_2020`                 | Densidad Poblacional al 2020                          |
 | `altitud`                           | Altitud en metros sobre el nivel del mar (msnm)       |
 | `latitude`                          | Latitud Sur                                           |
 | `longitude`                         | Longitud Oeste                                        |
@@ -28,7 +28,7 @@ Los arhivos están en tres formatos distintos: CSV, JSON, y RDS (formato de dato
 | `indice_vulnerabilidad_alimentaria` | Índice de Vulnerabilidad a la Inseguridad Alimentaria |
 | `idh_2019`                          | Índice de Desarrollo Humano                           |
 | `pct_pobreza_total`                 | Porcentaje de Pobreza Total                           |
-| `pct_pobreza_extrema`               | Porcentaje de Pobreza Total                           |
+| `pct_pobreza_extrema`               | Porcentaje de Pobreza Extrema                         |
 
 
 ### Provincias (`ubigeo_provincia.csv`)
@@ -45,7 +45,7 @@ Los arhivos están en tres formatos distintos: CSV, JSON, y RDS (formato de dato
 | `iso_3166_2`                        | Código ISO-3166-2 para la Región                       |
 | `fips`                              | Código FIPS para la Región                             |
 | `superficie`                        | Superficie en Km<sup>2</sup>                           |
-| `pob_densidad_2020`                 | Densidad Poblacional al 2020                            |
+| `pob_densidad_2020`                 | Densidad Poblacional al 2020                           |
 | `altitud`                           | Altitud en metros sobre el nivel del mar (msnm)        |
 | `latitude`                          | Latitud Sur                                            |
 | `longitude`                         | Longitud Oeste                                         |
@@ -53,7 +53,7 @@ Los arhivos están en tres formatos distintos: CSV, JSON, y RDS (formato de dato
 | `indice_vulnerabilidad_alimentaria` | Índice de Vulnerabilidad a la Inseguridad Alimentaria  |
 | `idh_2019`                          | Índice de Desarrollo Humano                            |
 | `pct_pobreza_total`                 | Porcentaje de Pobreza Total                            |
-| `pct_pobreza_extrema`               | Porcentaje de Pobreza Total                            |
+| `pct_pobreza_extrema`               | Porcentaje de Pobreza Extrema                          |
 
 
 ### Distritos (`ubigeo_distrito.csv`)
@@ -71,14 +71,14 @@ Los arhivos están en tres formatos distintos: CSV, JSON, y RDS (formato de dato
 | `iso_3166_2`                        | Código ISO-3166-2 para la Región                       |
 | `fips`                              | Código FIPS para la Región                             |
 | `superficie`                        | Superficie en Km<sup>2</sup>                           |
-| `pob_densidad_2020`                 | Densidad Poblacional al 2020                            |
+| `pob_densidad_2020`                 | Densidad Poblacional al 2020                           |
 | `altitud`                           | Altitud en metros sobre el nivel del mar (msnm)        |
 | `latitude`                          | Latitud Sur                                            |
 | `longitude`                         | Longitud Oeste                                         |
 | `indice_vulnerabilidad_alimentaria` | Índice de Vulnerabilidad a la Inseguridad Alimentaria  |
 | `idh_2019`                          | Índice de Desarrollo Humano                            |
 | `pct_pobreza_total`                 | Porcentaje de Pobreza Total                            |
-| `pct_pobreza_extrema`               | Porcentaje de Pobreza Total                            |
+| `pct_pobreza_extrema`               | Porcentaje de Pobreza Extrema                          |
 
 ### Centros Poblados (CCPP, `ubigeo_ccpp.csv`)
 
