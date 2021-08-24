@@ -20,7 +20,7 @@ Los arhivos están en tres formatos distintos: CSV, JSON, y RDS (formato de dato
 | `iso_3166_2`                        | Código ISO-3166-2 para la Región                      |
 | `fips`                              | Código FIPS para la Región                            |
 | `superficie`                        | Superficie en Km<sup>2</sup>                          |
-| `pob_densidad_2020`                 | Densidad Poblaciona al 2020                           |
+| `pob_densidad_2020`                 | Densidad Poblacional al 2020                           |
 | `altitud`                           | Altitud en metros sobre el nivel del mar (msnm)       |
 | `latitude`                          | Latitud Sur                                           |
 | `longitude`                         | Longitud Oeste                                        |
@@ -45,7 +45,7 @@ Los arhivos están en tres formatos distintos: CSV, JSON, y RDS (formato de dato
 | `iso_3166_2`                        | Código ISO-3166-2 para la Región                       |
 | `fips`                              | Código FIPS para la Región                             |
 | `superficie`                        | Superficie en Km<sup>2</sup>                           |
-| `pob_densidad_2020`                 | Densidad Poblaciona al 2020                            |
+| `pob_densidad_2020`                 | Densidad Poblacional al 2020                            |
 | `altitud`                           | Altitud en metros sobre el nivel del mar (msnm)        |
 | `latitude`                          | Latitud Sur                                            |
 | `longitude`                         | Longitud Oeste                                         |
@@ -71,7 +71,7 @@ Los arhivos están en tres formatos distintos: CSV, JSON, y RDS (formato de dato
 | `iso_3166_2`                        | Código ISO-3166-2 para la Región                       |
 | `fips`                              | Código FIPS para la Región                             |
 | `superficie`                        | Superficie en Km<sup>2</sup>                           |
-| `pob_densidad_2020`                 | Densidad Poblaciona al 2020                            |
+| `pob_densidad_2020`                 | Densidad Poblacional al 2020                            |
 | `altitud`                           | Altitud en metros sobre el nivel del mar (msnm)        |
 | `latitude`                          | Latitud Sur                                            |
 | `longitude`                         | Longitud Oeste                                         |
