@@ -6,6 +6,8 @@ En Perú, existen dos codificaciones no completamente equivalentes para Departam
 
 Estos son los datos de equivalencias entre códigos de UBIGEO de RENIEC e INEI, separado a nivel de Departamento, Provincia y Distrito. Ademá, se ha agregado información suplementaria sobre clasificación en macro-regiones, asi como latitud, longitud, superficie y altitud, índices, etc.
 
+(Si usas **R**, hay un paquete instalable con estos datos, en: https://github.com/jmcastagnetto/ubigeo)
+
 Los arhivos están en tres formatos distintos: CSV, JSON, y RDS (formato de datos de R)
 
 ## Estructura de datos:
