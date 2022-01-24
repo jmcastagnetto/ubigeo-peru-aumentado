@@ -1,4 +1,6 @@
 [![DOI](https://zenodo.org/badge/345434096.svg)](https://zenodo.org/badge/latestdoi/345434096)
+[![License](https://img.shields.io/github/license/jmcastagnetto/ubigeo-peru-aumentado)](LICENSE)
+
 
 # Perú: Equivalencia de códigos de UBIGEO de RENIEC e INEI
 
